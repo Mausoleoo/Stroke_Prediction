@@ -1,6 +1,8 @@
 # Data Science Stroke Prediction
 
-  - 
+  - Data was cleaned and transformed into dummies
+  - Data was balanced
+  - Machine learning models were used to predict strokes
 
 ## Resources
 
