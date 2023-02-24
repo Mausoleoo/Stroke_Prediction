@@ -15,7 +15,9 @@ Tutorial ML: https://betterdatascience.com/feature-importance-python/
 ## Steps
 
 1.- Run Data Cleaning.ipynb to clean data. 
+
     - Remove NaN values 
+    
     - It will create a CSV file (healthcare-dataset-stroke-data-cleaned.csv)
     
     Columns:
